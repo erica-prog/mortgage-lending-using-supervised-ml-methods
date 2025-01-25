@@ -15,11 +15,11 @@ Despite efforts to address financial inequities, racial and ethnic disparities i
 ## Finding
 
 The analysis identified significant insights into the financial and demographic predictors of mortgage delinquency:
-1. Housing Expense Ratio: Borrowers with higher housing expense ratios were consistently at greater risk. For instance, a ratio above 30% increased the likelihood of delinquency significantly, with the feature contributing over 40% of the predictive power in Random Forest models.
-2. Credit Scores: Credit scores showed strong predictive value. Borrowers with scores below 600 were categorized as high risk, while those above 750 were consistently low risk, demonstrating a clear correlation between creditworthiness and repayment stability.
-3. Loan Amounts: Borrowers with smaller loans (e.g., below $150,000) were at lower risk of delinquency. Conversely, loans exceeding $300,000 correlated with higher risk.
-4. Loan-to-Value (LTV) Ratios: An LTV ratio above 80% increased delinquency risk. Borrowers with higher equity in their homes demonstrated more financial stability.
-5. Demographics: While demographic factors like race and ethnicity had lower predictive importance, the data showed that Black and Hispanic borrowers were overrepresented in the high-risk category, pointing to systemic financial inequities.
+1. **Housing Expense Ratio:** Borrowers with higher housing expense ratios were consistently at greater risk. For instance, a ratio above 30% increased the likelihood of delinquency significantly, with the feature contributing over 40% of the predictive power in Random Forest models.
+2. **Credit Scores:** Credit scores showed strong predictive value. Borrowers with scores below 600 were categorized as high risk, while those above 750 were consistently low risk, demonstrating a clear correlation between creditworthiness and repayment stability.
+3. **Loan Amounts:** Borrowers with smaller loans (e.g., below $150,000) were at lower risk of delinquency. Conversely, loans exceeding $300,000 correlated with higher risk.
+4. **Loan-to-Value (LTV) Ratios:** An LTV ratio above 80% increased delinquency risk. Borrowers with higher equity in their homes demonstrated more financial stability.
+5. **Demographics:** While demographic factors like race and ethnicity had lower predictive importance, the data showed that Black and Hispanic borrowers were overrepresented in the high-risk category, pointing to systemic financial inequities.
 
 ## Supervised Machine Learning Methods and the Results
 
