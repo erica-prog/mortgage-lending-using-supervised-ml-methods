@@ -28,6 +28,12 @@ The analysis identified significant insights into the financial and demographic 
 3. **Logistic Regression** analysis found that credit score and housing expense ratio were statistically significant, with p-values below 0.01.
 4. **LightGBM**, the most effective model, achieved an overall accuracy of 91% and an AUC score of 83%. It demonstrated 91% precision for low-risk borrowers and 72% precision for high-risk borrowers.
 
+<div align="center"> <img src="Image/decision_tree.png" alt="Decision Tree Visualization" width="600"> </div>
+<div align="center"> <img src="Image/lightGBM_without_pca.png" alt="LightGBM Without PCA Visualization" width="600"> </div>
+<div align="center"> <img src="Image/rf_without_pca.png" alt="Random Forest Without PCA Visualization" width="600"> </div>
+<div align="center"> <img src="Image/roc_curve_lightGBM.png" alt="ROC Curve LightGBM" width="400"> <img src="Image/roc_curve_rf.png" alt="ROC Curve Random Forest" width="400"> </div>
+
+
 
 ## Challenges and Future Work 
 This project presented several challenges:
