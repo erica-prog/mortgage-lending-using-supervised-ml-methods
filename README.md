@@ -67,12 +67,10 @@ I presented my research at a student conference, where I explored data augmentat
 </p>
 
 📂 **Python Notebook**  
-Check out the updated Jupyter notebook where I implemented and evaluated these techniques:
+Check out the updated Python notebook where I implemented and evaluated these techniques:
 
 👉 [`final_project_assessing_bias_mortgage_covid_pandemic.ipynb`](https://github.com/erica-prog/mortgage-lending-using-supervised-ml-methods/blob/main/Mathias_Student_Research_Conference/final_project_assessing_bias_mortgage_covid_pandemic.ipynb)
 
-For a more in-depth look, here’s the updated Python notebook detailing my research and findings.
-👉 final_project_assessing_bias_mortgage_covid_pandemic.ipynb 
 
 
 
