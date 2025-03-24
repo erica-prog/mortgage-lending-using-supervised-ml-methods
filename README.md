@@ -53,6 +53,13 @@ Future research should include:
 3. Examination of policy reforms targeting non-bank lenders, who disproportionately charge minority borrowers higher fees.
 
 
+## Robyn Rafferty Mathias Student Research Conference
+
+I presented my research at the student conference, where I explored data augmentation methods (SMOTE, Tomek Link, Class Weights, and BalancedBagging Classifier). 
+
+Here is the poster to get an overview of my work. Furthermore, here is the updated Python notebook on my research work. 
+
+
 
 
 
