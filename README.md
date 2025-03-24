@@ -25,6 +25,8 @@ The analysis identified significant insights into the financial and demographic 
 
 1. The **Pruned Decision Tree model**, using the alpha = 0.001, achieved an AUC score of 70%, highlighting key predictors such as credit scores and loan size.
 
+<div align="center"> <img src="Image/accuracy_vs_alpha.png" alt="Decision Tree Visualization" width="300"> </div>
+
 <div align="center"> <img src="Image/decision_tree.png" alt="Decision Tree Visualization" width="600"> </div>
 
 2. The **Random Forest model**, with an AUC score of 81%, identified housing expense ratio (41% importance) and loan acquisition amount (25% importance) as the most critical factors.
