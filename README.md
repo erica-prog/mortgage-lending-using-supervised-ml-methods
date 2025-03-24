@@ -57,19 +57,18 @@ Future research should include:
 
 I presented my research at a student conference, where I explored data augmentation techniques such as SMOTE, Tomek Link, Class Weights, and the Balanced Bagging Classifier.
 
-📌 **Poster Overview**  
+1. **Poster Overview**  
 [Click here to view the full poster (PDF)](https://github.com/erica-prog/mortgage-lending-using-supervised-ml-methods/blob/main/Mathias_Student_Research_Conference/Assessing%20Bias%20in%20Mortgage%20lending_completed.pdf)
 
 <p align="center">
   <a href="https://github.com/erica-prog/mortgage-lending-using-supervised-ml-methods/blob/main/Mathias_Student_Research_Conference/Assessing%20Bias%20in%20Mortgage%20lending_completed.pdf">
-    <img src="https://github.com/erica-prog/mortgage-lending-using-supervised-ml-methods/blob/main/assets/poster_screenshot.png" alt="Conference Poster" width="600"/>
+    <img src="https://github.com/erica-prog/mortgage-lending-using-supervised-ml-methods/blob/main/Mathias_Student_Research_Conference/Assessing%20Bias%20in%20Mortgage%20lending_completed_image.png" alt="Conference Poster" width="600"/>
   </a>
 </p>
 
-📂 **Python Notebook**  
+2. **Python Notebook**  
 Check out the updated Python notebook where I implemented and evaluated these techniques:
-
-👉 [`final_project_assessing_bias_mortgage_covid_pandemic.ipynb`](https://github.com/erica-prog/mortgage-lending-using-supervised-ml-methods/blob/main/Mathias_Student_Research_Conference/final_project_assessing_bias_mortgage_covid_pandemic.ipynb)
+[`final_project_assessing_bias_mortgage_covid_pandemic.ipynb`](https://github.com/erica-prog/mortgage-lending-using-supervised-ml-methods/blob/main/Mathias_Student_Research_Conference/final_project_assessing_bias_mortgage_covid_pandemic.ipynb)
 
 
 
