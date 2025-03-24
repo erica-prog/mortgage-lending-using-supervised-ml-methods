@@ -23,7 +23,7 @@ The analysis identified significant insights into the financial and demographic 
 
 ## Supervised Machine Learning Methods and the Results
 
-1. The **Decision Tree model** achieved an AUC score of 70%, highlighting key predictors such as credit scores and loan size.
+1. The **Pruned Decision Tree model**, using the alpha = 0.001, achieved an AUC score of 70%, highlighting key predictors such as credit scores and loan size.
 
 <div align="center"> <img src="Image/decision_tree.png" alt="Decision Tree Visualization" width="600"> </div>
 
