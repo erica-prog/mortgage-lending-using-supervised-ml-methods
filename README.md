@@ -1,4 +1,4 @@
-# Disparities in Mortgage Lending and Payments during the COVID-pandemic using Supervised Machine Learning Models
+# Assessing Bias in Mortgage Lending and Payments during the COVID-pandemic using Supervised Machine Learning Models
 
 This project explores the racial disparities in mortgage lending and payment delinquencies during the COVID-19 pandemic using supervised machine learning models. Black and Hispanic homeowners, historically marginalized in the U.S. housing market, experienced disproportionately higher risks of delinquency compared to White homeowners. This study evaluates how demographic and financial factors contribute to these risks while assessing the effectiveness of pandemic-era relief programs, such as mortgage forbearance policies under the CARES Act.
 
